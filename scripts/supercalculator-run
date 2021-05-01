@@ -4,4 +4,10 @@
 from supercalculator.supercalculator import soma,diff,div,mult
 
 print(diff(1,2))
+print(diff(1,2))
+print(diff(1,2))
+print("The Le Wagon Team is Great")
+print(diff(1,2))
+print(diff(1,2))
+print(diff(1,2))
 
