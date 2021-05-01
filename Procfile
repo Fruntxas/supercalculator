@@ -1,1 +1,1 @@
-web: pip install . -U && supercalculator-frun-run
+web: pip install . -U && supercalculator-run
