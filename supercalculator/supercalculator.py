@@ -1,7 +1,6 @@
-
 def soma(a,b):
     return a+b
-
+# X
 def diff(a,b):
     return a-b
 
