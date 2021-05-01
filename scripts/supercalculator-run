@@ -1,2 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+from supercalculator.supercalculator import soma,diff,div,mult
+
+print(diff(1,2))
+
